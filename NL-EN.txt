@@ -1,0 +1,9 @@
+Paard=Horse
+Koe=Cow
+Kip=Chicken
+Hond=Dog
+Kat=Cat
+Schaap=Sheep
+Kaas=Cheese
+hoofd=head
+Banaan=Banana

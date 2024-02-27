@@ -1,0 +1,3 @@
+Kat=Chat
+Koe=Kuh
+Schaap=Schaf
